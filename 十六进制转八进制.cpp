@@ -6,7 +6,6 @@
 using namespace std;
 const int MAXN=11;
 
-
 int main(){
 	string hexs[MAXN];
 	string bins[MAXN];
